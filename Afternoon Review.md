@@ -33,7 +33,7 @@ _week 9 day 1 (http://learn.codingdojo.com/m/330/10444/70829)
 
 * Offers guaranteed return
 * Possible for anyone to buy and sell
-* Heavily regulated by a security
+* Heavily regulated by a security. 👏
 * All of the above
  
 ### The study of cryptocurrencies, or “tokens” and their use and place within society when it comes to an economy is called_____________________.
