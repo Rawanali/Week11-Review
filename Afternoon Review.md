@@ -38,7 +38,7 @@ _week 9 day 1 (http://learn.codingdojo.com/m/330/10444/70829)
  
 ### The study of cryptocurrencies, or “tokens” and their use and place within society when it comes to an economy is called_____________________.
 
-* Societal economics.
+* Societal economics.👏
 * Cryptoeconomics.
 * Tokenomics.
 * None of the above.
