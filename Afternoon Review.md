@@ -29,7 +29,20 @@ _week 9 day 1 (http://learn.codingdojo.com/m/330/10444/70829)
 * SHA-256 hash algorithm. 👏
 * 
 
+### A STO is typically _________________.
 
+* Offers guaranteed return
+* Possible for anyone to buy and sell
+* Heavily regulated by a security
+* All of the above
+ 
+### The study of cryptocurrencies, or “tokens” and their use and place within society when it comes to an economy is called_____________________.
+
+* Societal economics.
+* Cryptoeconomics.
+* Tokenomics.
+* None of the above.
+ 
 ### What is the diffrent between Stocks and CryptoCurrency ? (2 points)
 _week 11, Day 4 (http://learn.codingdojo.com/m/330/10489/71110)
 
